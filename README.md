@@ -1,8 +1,4 @@
-For your CUDA-based project, focusing on FFT computations using the cuFFT library, here is a comprehensive `README.md` content. This README will guide users through the installation, usage, and background of your project, which I'll name "FFTAccelerator" for this example.
 
-### README.md for FFTAccelerator
-
----
 
 #### Project Title
 **FFTAccelerator: High-Performance FFT Computations on GPUs**
