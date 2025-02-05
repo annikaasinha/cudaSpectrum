@@ -51,16 +51,7 @@ This project does not require any external data sources but is designed to work 
 #### Authors
 - Annika Sinha(https://github.com/annikaasinha) - Initial development and design.
 
-#### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-#### Acknowledgments
-- Thanks to NVIDIA for providing the CUDA Toolkit and cuFFT library.
-- Appreciation to the CUDA community for support and resources.
-
-#### Project Presentation
-A link to a short video presentation that demonstrates the functionality and performance of FFTAccelerator. Example:
-- [FFTAccelerator Demonstration Video](https://youtube.com)
+ [FFTAccelerator Demonstration Video](https://youtube.com)
 
 #### Proof of Execution
 ![image](https://github.com/user-attachments/assets/9a7eb0ac-3b74-4e7d-8a87-cc275c0ee2b0)
